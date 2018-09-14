@@ -4,7 +4,7 @@
 This repo is a companion to my Intro to Git talk from the 2018 Women Who Code
 Diversity Hackathon in Austin, TX.
 
-The slides for this talk are available [here](https://shanson.co/git-2018.pdf).
+The slides for this talk are available [here](https://files.shanson.co/git-2018.pdf).
 
 ### Attendees
 
