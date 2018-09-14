@@ -28,7 +28,7 @@ Add your name and GitHub profile to the list below:
   date with the destination repo of your pull request. Do this _before_ creating a
   branch off master:
 
-  * `git remote add upstream https://github.com/betamore/fewd-pull-request-exercise.git`
+  * `git remote add upstream https://github.com/stevehanson/pull-requests-exercise.git`
   * `git fetch upstream`
   * `git checkout master`
   * `git rebase upstream/master`
