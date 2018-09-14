@@ -10,7 +10,8 @@ The slides for this talk are available [here](https://files.shanson.co/git-2018.
 
 Add your name and GitHub profile to the list below:
 
-* My name: [https://github.com](github.com/my-name)
+* Stephen Hanson: [https://github.com/stevehanson](github.com/stevehanson)
+* My name: [https://github.com/my-name](github.com/my-name)
 
 ### Follow these steps to add your name:
 
